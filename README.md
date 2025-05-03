@@ -111,5 +111,4 @@ homework/
 📌 **UYARI:** Python dosyalarını çalıştırırken, terminalde projenin kök dizini olan `homework/` klasörünün içinde olun. Aksi halde `"data/hamveri/store_zara.csv"` gibi göreli yollar hata verebilir.
 
 ---
-
-Projenizi GitHub’da paylaşmaya hazır hale getirdiniz. İstersen bu README’yi direkt olarak GitHub’daki `README.md` dosyanıza yapıştırabilirsin. Yardımcı olmamı istediğin başka bir şey var mı?
+Gülşen Çintuğlu
