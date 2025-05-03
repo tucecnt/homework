@@ -1,3 +1,7 @@
+
+📌 **UYARI:** Python dosyalarını çalıştırırken, terminalde projenin kök dizini olan `homework/` klasörünün içinde olun. Aksi halde `"data/hamveri/store_zara.csv"` gibi göreli yollar hata verebilir.
+---
+
 # 👗 Moda Kombin Uyumu Analizi — NLP Projesi
 
 Bu proje, Zara ürünlerinin açıklamalarını kullanarak, **moda kombin uyumu analizi** yapmayı amaçlar. Doğal Dil İşleme (NLP) teknikleri ile ürünler arasında **anlamsal benzerlik** hesaplanarak kombin önerileri yapılabilir.
@@ -108,7 +112,5 @@ homework/
 │   └── diğer script dosyaları
 ```
 
-📌 **UYARI:** Python dosyalarını çalıştırırken, terminalde projenin kök dizini olan `homework/` klasörünün içinde olun. Aksi halde `"data/hamveri/store_zara.csv"` gibi göreli yollar hata verebilir.
 
----
 Gülşen Çintuğlu
