@@ -1,5 +1,5 @@
 
-📌 **UYARI:** Python dosyalarını çalıştırırken, terminalde projenin kök dizini olan `homework/` klasörünün içinde olun. Aksi halde `"data/hamveri/store_zara.csv"` gibi göreli yollar hata verebilir.
+📌 **UYARI:**  Python dosyalarını çalıştırırken, terminalde projenin kök dizini olan `homework/` klasörünün içinde olun. Aksi halde `"data/hamveri/store_zara.csv"` gibi göreli yollar hata verebilir.
 ---
 
 # 👗 Moda Kombin Uyumu Analizi — NLP Projesi
