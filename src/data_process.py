@@ -3,7 +3,7 @@ import nltk
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer, PorterStemmer
-
+ 
 df = pd.read_csv("data/processveri/zara.csv")  
 
 lemmatizer = WordNetLemmatizer()
