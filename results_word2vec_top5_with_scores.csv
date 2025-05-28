@@ -1,0 +1,81 @@
+Model,Index,Similarity,Text,Semantic_Score
+word2vec_lemmatized_cbow_win2_dim100.model,160,0.99919254,relaxed fit overshirt lapel collar and long sleeves chest patch pocket front snap button closure,5
+word2vec_lemmatized_cbow_win2_dim100.model,88,0.9990461,boxy fit jacket lapel collar and long sleeves with buttoned cuffs patch pockets at hip washed effectasymmetric hem with side vents front button closure,4
+word2vec_lemmatized_cbow_win2_dim100.model,154,0.9990098,relaxed fit reversible overshirt italian collar and long sleeves with buttoned cuffs chest patch pocket front button closure,5
+word2vec_lemmatized_cbow_win2_dim100.model,60,0.99888337,jacket made of cotton denim lapel collar and long sleeves with buttoned cuffs patch pockets at chest and side pockets at hip washed effect front zip closure,4
+word2vec_lemmatized_cbow_win2_dim100.model,2130,0.9985398,shirt with lapel collar and long sleeves tailored waist with side gathers front button closure,3
+word2vec_lemmatized_cbow_win2_dim300.model,160,0.99944925,relaxed fit overshirt lapel collar and long sleeves chest patch pocket front snap button closure,5
+word2vec_lemmatized_cbow_win2_dim300.model,154,0.99938935,relaxed fit reversible overshirt italian collar and long sleeves with buttoned cuffs chest patch pocket front button closure,5
+word2vec_lemmatized_cbow_win2_dim300.model,60,0.99937314,jacket made of cotton denim lapel collar and long sleeves with buttoned cuffs patch pockets at chest and side pockets at hip washed effect front zip closure,4
+word2vec_lemmatized_cbow_win2_dim300.model,181,0.99916184,straight fit jacket made of viscose and linen notched lapel collar and long sleeves with buttoned cuffs front welt pockets and interior pocket central back vent at hem front button closure,4
+word2vec_lemmatized_cbow_win2_dim300.model,88,0.9991543,boxy fit jacket lapel collar and long sleeves with buttoned cuffs patch pockets at hip washed effectasymmetric hem with side vents front button closure,4
+word2vec_lemmatized_cbow_win4_dim100.model,142,0.99912924,relaxed fit parka made of dense cotton lapel collar and long sleeves flap patch pockets at hip and interior pocket front zip hidden by a snap button flap,4
+word2vec_lemmatized_cbow_win4_dim100.model,154,0.9989436,relaxed fit reversible overshirt italian collar and long sleeves with buttoned cuffs chest patch pocket front button closure,5
+word2vec_lemmatized_cbow_win4_dim100.model,181,0.9988298,straight fit jacket made of viscose and linen notched lapel collar and long sleeves with buttoned cuffs front welt pockets and interior pocket central back vent at hem front button closure,4
+word2vec_lemmatized_cbow_win4_dim100.model,2130,0.99882114,shirt with lapel collar and long sleeves tailored waist with side gathers front button closure,3
+word2vec_lemmatized_cbow_win4_dim100.model,160,0.9987886,relaxed fit overshirt lapel collar and long sleeves chest patch pocket front snap button closure,5
+word2vec_lemmatized_cbow_win4_dim300.model,142,0.9995608,relaxed fit parka made of dense cotton lapel collar and long sleeves flap patch pockets at hip and interior pocket front zip hidden by a snap button flap,4
+word2vec_lemmatized_cbow_win4_dim300.model,181,0.9994313,straight fit jacket made of viscose and linen notched lapel collar and long sleeves with buttoned cuffs front welt pockets and interior pocket central back vent at hem front button closure,4
+word2vec_lemmatized_cbow_win4_dim300.model,19,0.99927133,straight fit blazer made of linen notched lapel collar and long sleeves with buttoned cuffs flap pockets at hip interior pocket back vents front button closure,4
+word2vec_lemmatized_cbow_win4_dim300.model,2103,0.9992703,shirt made of viscose lapel collar and long cuffed sleeves front pleat detail asymmetric hem with side vents front button closure,3
+word2vec_lemmatized_cbow_win4_dim300.model,143,0.999266,slightly cropped overshirt lapel collar and long sleeves with buttoned cuffs chest patch pocket washed effect front button closure,4
+word2vec_lemmatized_skipgram_win2_dim100.model,159,0.9964381,boxy fit overshirt lapel collar and long sleeves with buttoned cuffs chest patch pockets washed effect front button closure,4
+word2vec_lemmatized_skipgram_win2_dim100.model,88,0.9962154,boxy fit jacket lapel collar and long sleeves with buttoned cuffs patch pockets at hip washed effectasymmetric hem with side vents front button closure,4
+word2vec_lemmatized_skipgram_win2_dim100.model,160,0.995955,relaxed fit overshirt lapel collar and long sleeves chest patch pocket front snap button closure,5
+word2vec_lemmatized_skipgram_win2_dim100.model,143,0.9954197,slightly cropped overshirt lapel collar and long sleeves with buttoned cuffs chest patch pocket washed effect front button closure,4
+word2vec_lemmatized_skipgram_win2_dim100.model,60,0.99502814,jacket made of cotton denim lapel collar and long sleeves with buttoned cuffs patch pockets at chest and side pockets at hip washed effect front zip closure,4
+word2vec_lemmatized_skipgram_win2_dim300.model,160,0.9972552,relaxed fit overshirt lapel collar and long sleeves chest patch pocket front snap button closure,5
+word2vec_lemmatized_skipgram_win2_dim300.model,143,0.9972393,slightly cropped overshirt lapel collar and long sleeves with buttoned cuffs chest patch pocket washed effect front button closure,4
+word2vec_lemmatized_skipgram_win2_dim300.model,88,0.99721724,boxy fit jacket lapel collar and long sleeves with buttoned cuffs patch pockets at hip washed effectasymmetric hem with side vents front button closure,4
+word2vec_lemmatized_skipgram_win2_dim300.model,159,0.99685377,boxy fit overshirt lapel collar and long sleeves with buttoned cuffs chest patch pockets washed effect front button closure,4
+word2vec_lemmatized_skipgram_win2_dim300.model,60,0.99631745,jacket made of cotton denim lapel collar and long sleeves with buttoned cuffs patch pockets at chest and side pockets at hip washed effect front zip closure,4
+word2vec_lemmatized_skipgram_win4_dim100.model,60,0.9952535,jacket made of cotton denim lapel collar and long sleeves with buttoned cuffs patch pockets at chest and side pockets at hip washed effect front zip closure,4
+word2vec_lemmatized_skipgram_win4_dim100.model,125,0.994375,boxy fit jacket high collar with adjustable hood and long sleeves with buttoned cuffs patch pockets with flaps at chest front straps with multifunctional ring washed effect front hidden zip and snap button closure,4
+word2vec_lemmatized_skipgram_win4_dim100.model,88,0.9941454,boxy fit jacket lapel collar and long sleeves with buttoned cuffs patch pockets at hip washed effectasymmetric hem with side vents front button closure,4
+word2vec_lemmatized_skipgram_win4_dim100.model,2288,0.99381644,long lapel collar jumpsuit with long cuffed sleeves patch pocket at chest and back washed effect front metal button closure,2
+word2vec_lemmatized_skipgram_win4_dim100.model,160,0.9931633,relaxed fit overshirt lapel collar and long sleeves chest patch pocket front snap button closure,5
+word2vec_lemmatized_skipgram_win4_dim300.model,60,0.99697083,jacket made of cotton denim lapel collar and long sleeves with buttoned cuffs patch pockets at chest and side pockets at hip washed effect front zip closure,4
+word2vec_lemmatized_skipgram_win4_dim300.model,143,0.9954186,slightly cropped overshirt lapel collar and long sleeves with buttoned cuffs chest patch pocket washed effect front button closure,4
+word2vec_lemmatized_skipgram_win4_dim300.model,88,0.99502033,boxy fit jacket lapel collar and long sleeves with buttoned cuffs patch pockets at hip washed effectasymmetric hem with side vents front button closure,4
+word2vec_lemmatized_skipgram_win4_dim300.model,87,0.9947873,slightly cropped denim jacket lapel collar and long sleeves with buttoned cuffs flap patch pocket at chest and side hip washed effect front button closure,4
+word2vec_lemmatized_skipgram_win4_dim300.model,160,0.99466187,relaxed fit overshirt lapel collar and long sleeves chest patch pocket front snap button closure,5
+word2vec_stemmed_cbow_win2_dim100.model,2115,0.9991417,full cut shirt with lapel collar long sleeves and turnedup cuffs with contrasting band front welt pocket side vents at hem front button closure,3
+word2vec_stemmed_cbow_win2_dim100.model,1115,0.99913555,blazer with satin effect lapel collar long sleeves and shoulder pads fitted waist front flap pockets front button closure,4
+word2vec_stemmed_cbow_win2_dim100.model,22,0.9990621,relaxed fit jacket in leather spread collar and long sleeves with slit cuffs with button closure patch pockets at hip back vents front button closure,5
+word2vec_stemmed_cbow_win2_dim100.model,1194,0.9989297,puffer jacket with high collar contrasting neoprene long sleeves front pockets adjustable drawstring hem with toggle front heatsealed zip closure,4
+word2vec_stemmed_cbow_win2_dim100.model,94,0.99891984,cropped fit jacket with padded interior lapel collar made of fleece fabric long sleeves flap pockets at hip and interior pocket adjustable drawstring hem at front front zip closure,4
+word2vec_stemmed_cbow_win2_dim300.model,1115,0.99960464,blazer with satin effect lapel collar long sleeves and shoulder pads fitted waist front flap pockets front button closure,4
+word2vec_stemmed_cbow_win2_dim300.model,22,0.9995048,relaxed fit jacket in leather spread collar and long sleeves with slit cuffs with button closure patch pockets at hip back vents front button closure,5
+word2vec_stemmed_cbow_win2_dim300.model,2115,0.9994368,full cut shirt with lapel collar long sleeves and turnedup cuffs with contrasting band front welt pocket side vents at hem front button closure,3
+word2vec_stemmed_cbow_win2_dim300.model,1282,0.9993623,mini dress with lapel collar and long sleeves front and back pockets washed effect front metal button closure,1
+word2vec_stemmed_cbow_win2_dim300.model,1194,0.99934924,puffer jacket with high collar contrasting neoprene long sleeves front pockets adjustable drawstring hem with toggle front heatsealed zip closure,4
+word2vec_stemmed_cbow_win4_dim100.model,1115,0.9995984,blazer with satin effect lapel collar long sleeves and shoulder pads fitted waist front flap pockets front button closure,4
+word2vec_stemmed_cbow_win4_dim100.model,1194,0.9994331,puffer jacket with high collar contrasting neoprene long sleeves front pockets adjustable drawstring hem with toggle front heatsealed zip closure,4
+word2vec_stemmed_cbow_win4_dim100.model,125,0.99914205,boxy fit jacket high collar with adjustable hood and long sleeves with buttoned cuffs patch pockets with flaps at chest front straps with multifunctional ring washed effect front hidden zip and snap button closure,4
+word2vec_stemmed_cbow_win4_dim100.model,59,0.9988678,roomy jacket made of lightweight fabric lapel collar and long sleeves with elastic cuffs contrasting patch appliqus with embroidery at front and back front pouch pocket elastic hem front zip closure,4
+word2vec_stemmed_cbow_win4_dim100.model,7,0.9988265,straight fit blazer made of linen notched lapel collar and long sleeves with buttoned cuffs welt pocket at chest and flap pockets at hip interior pocket back vents front button closure,4
+word2vec_stemmed_cbow_win4_dim300.model,1115,0.9998266,blazer with satin effect lapel collar long sleeves and shoulder pads fitted waist front flap pockets front button closure,4
+word2vec_stemmed_cbow_win4_dim300.model,2115,0.99972534,full cut shirt with lapel collar long sleeves and turnedup cuffs with contrasting band front welt pocket side vents at hem front button closure,
+word2vec_stemmed_cbow_win4_dim300.model,52,0.9995724,relaxed fit overshirt lapel collar and long sleeves with buttoned cuffs side hidden inseam pockets front button closure,4
+word2vec_stemmed_cbow_win4_dim300.model,1282,0.9995693,mini dress with lapel collar and long sleeves front and back pockets washed effect front metal button closure,1
+word2vec_stemmed_cbow_win4_dim300.model,2896,0.9995349,cropped sweatshirt with high collar and adjustable drawstring hood long sleeves with dropped shoulders elastic hem front metal zip closure,2
+word2vec_stemmed_skipgram_win2_dim100.model,1115,0.9971239,blazer with satin effect lapel collar long sleeves and shoulder pads fitted waist front flap pockets front button closure,4
+word2vec_stemmed_skipgram_win2_dim100.model,144,0.9962853,relaxed fit overshirt lapel collar and long sleeves with elastic cuffs chest patch pocket cropped length adjustable front drawcord hem front button closure,4
+word2vec_stemmed_skipgram_win2_dim100.model,22,0.9962229,relaxed fit jacket in leather spread collar and long sleeves with slit cuffs with button closure patch pockets at hip back vents front button closure,5
+word2vec_stemmed_skipgram_win2_dim100.model,160,0.9959739,relaxed fit overshirt lapel collar and long sleeves chest patch pocket front snap button closure,4
+word2vec_stemmed_skipgram_win2_dim100.model,125,0.99590695,boxy fit jacket high collar with adjustable hood and long sleeves with buttoned cuffs patch pockets with flaps at chest front straps with multifunctional ring washed effect front hidden zip and snap button closure,4
+word2vec_stemmed_skipgram_win2_dim300.model,1115,0.9973774,blazer with satin effect lapel collar long sleeves and shoulder pads fitted waist front flap pockets front button closure,4
+word2vec_stemmed_skipgram_win2_dim300.model,160,0.99659824,relaxed fit overshirt lapel collar and long sleeves chest patch pocket front snap button closure,5
+word2vec_stemmed_skipgram_win2_dim300.model,143,0.9963381,slightly cropped overshirt lapel collar and long sleeves with buttoned cuffs chest patch pocket washed effect front button closure,4
+word2vec_stemmed_skipgram_win2_dim300.model,22,0.9960352,relaxed fit jacket in leather spread collar and long sleeves with slit cuffs with button closure patch pockets at hip back vents front button closure,5
+word2vec_stemmed_skipgram_win2_dim300.model,140,0.99600893,overshirt made of printed fleece polar fleece lining lapel collar and long sleeves with buttoned cuffs chest patch pocket front snap button closure,4
+word2vec_stemmed_skipgram_win4_dim100.model,1115,0.9976377,blazer with satin effect lapel collar long sleeves and shoulder pads fitted waist front flap pockets front button closure,4
+word2vec_stemmed_skipgram_win4_dim100.model,125,0.9961479,boxy fit jacket high collar with adjustable hood and long sleeves with buttoned cuffs patch pockets with flaps at chest front straps with multifunctional ring washed effect front hidden zip and snap button closure,4
+word2vec_stemmed_skipgram_win4_dim100.model,87,0.9940083,slightly cropped denim jacket lapel collar and long sleeves with buttoned cuffs flap patch pocket at chest and side hip washed effect front button closure,4
+word2vec_stemmed_skipgram_win4_dim100.model,59,0.9936211,roomy jacket made of lightweight fabric lapel collar and long sleeves with elastic cuffs contrasting patch appliqus with embroidery at front and back front pouch pocket elastic hem front zip closure,4
+word2vec_stemmed_skipgram_win4_dim100.model,115,0.99356914,cropped jacket lapel collar and long sleeves with elastic cuffs front utility pockets with zip closure washed effect elastic hem front zip closure,4
+word2vec_stemmed_skipgram_win4_dim300.model,1115,0.996622,blazer with satin effect lapel collar long sleeves and shoulder pads fitted waist front flap pockets front button closure,4
+word2vec_stemmed_skipgram_win4_dim300.model,125,0.99634284,boxy fit jacket high collar with adjustable hood and long sleeves with buttoned cuffs patch pockets with flaps at chest front straps with multifunctional ring washed effect front hidden zip and snap button closure,4
+word2vec_stemmed_skipgram_win4_dim300.model,144,0.9960481,relaxed fit overshirt lapel collar and long sleeves with elastic cuffs chest patch pocket cropped length adjustable front drawcord hem front button closure,4
+word2vec_stemmed_skipgram_win4_dim300.model,2288,0.99540263,long lapel collar jumpsuit with long cuffed sleeves patch pocket at chest and back washed effect front metal button closure,2
+word2vec_stemmed_skipgram_win4_dim300.model,186,0.9948728,relaxed fit overshirt lapel collar and belowtheelbow length sleeves chest patch pocket washed effect side vents at hem front snap button closure,4

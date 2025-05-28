@@ -1,0 +1,11 @@
+Model,Input_Index,Similar_Index,Similarity,Similar_Text,Semantic_Score
+TF-IDF Lemmatized,5,67,0.6972134518939731,lapel collar jacket with long sleeves front pouch pockets front zip closure,5
+TF-IDF Lemmatized,5,179,0.6042147668952568,lapel collar jacket with long sleeves with buttoned cuffs flap pockets at chest and welt pockets at hip washed effect front button closure,4
+TF-IDF Lemmatized,5,155,0.5918779471854362,relaxed fit overshirt made with cotton fabric lapel collar and long sleeves with buttoned cuffs patch pockets at hip washed effect front button closure,4
+TF-IDF Lemmatized,5,40,0.5806573905773357,jacket with lightly padded interior contrasting lapel collar long sleeves with buttoned cuffs washed effect double welt pockets at chest and hip front zip closure,4
+TF-IDF Lemmatized,5,60,0.5637797607257469,jacket made of cotton denim lapel collar and long sleeves with buttoned cuffs patch pockets at chest and side pockets at hip washed effect front zip closure,3
+TF-IDF Stemmed,5,67,0.7269449353324107,lapel collar jacket with long sleeves front pouch pockets front zip closure,5
+TF-IDF Stemmed,5,179,0.5936328997418039,lapel collar jacket with long sleeves with buttoned cuffs flap pockets at chest and welt pockets at hip washed effect front button closure,4
+TF-IDF Stemmed,5,359,0.5871039545344094,relaxed fit jeans front patch pockets and back pockets washed effect front zip and button closure,2
+TF-IDF Stemmed,5,155,0.5796868871653421,relaxed fit overshirt made with cotton fabric lapel collar and long sleeves with buttoned cuffs patch pockets at hip washed effect front button closure,4
+TF-IDF Stemmed,5,40,0.5633254826657901,jacket with lightly padded interior contrasting lapel collar long sleeves with buttoned cuffs washed effect double welt pockets at chest and hip front zip closure,4
